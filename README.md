@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=#ffffff&vCenter=true&center=true&width=460&lines=Ashish+Kumar;Software+Engineer;Web+Developer" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Ashish+Kumar;Software+Engineer;Web+Developer" </p>
 
 
 ## About me
