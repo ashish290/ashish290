@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=software+engineer;Web+Developer" </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish290&label=Profile%20views&color=0e75b6&style=flat" alt="ashish290" /> </p>
+<p align="center" gap = 3px> <img src="https://komarev.com/ghpvc/?username=ashish290&label=Profile%20views&color=0e75b6&style=flat" alt="ashish290" /> </p>
 
 
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **iamashish228@gmail.com**
 
 <h3 align="Center">Connect with me:</h3>
-<p align="Center">
+<p align="Center" gap = 3px>
 <a href="https://twitter.com/ashish_5028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_5028" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-569980227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar-569980227/" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish_kashyap_228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_kashyap_228" height="30" width="40" /></a>
